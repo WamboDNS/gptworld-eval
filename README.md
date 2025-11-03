@@ -2,8 +2,10 @@
 This is my implementation of the GPTWorld environment for the PrimeIntellect Environment Hub.
 
 Source: [GPTworld](https://github.com/srush/GPTWorld)
-Implementation:[Fork](https://github.com/WamboDNS/prime-environments/tree/feat/gptworld/environments/gptworld)
-Creator: [@wambosec](https://x.com/wambosec)
+
+Implementation: [Fork](https://github.com/WamboDNS/prime-environments/tree/feat/gptworld/environments/gptworld)
+
+Env-creator: [@wambosec](https://x.com/wambosec)
 
 ### Overview
 - **Environment ID**: `gptworld`
